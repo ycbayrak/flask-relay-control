@@ -3,5 +3,6 @@ lib/
 share/
 include/
 
-
+.vscode
+pip-selfcheck.json
 
