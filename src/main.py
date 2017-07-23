@@ -3,7 +3,7 @@ from flask import Flask, render_template, request
 app = Flask(__name__)
 
 GPIO.setmode(GPIO.BCM)
-
+GPIO.setwarnings(False)
 # Create a dictionary called pins to store the pin number, name, and pin state:
 pins = {
     2: {'name': 'Desk Lamp', 'state': GPIO.LOW, 'status': "OFF"},
