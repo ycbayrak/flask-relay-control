@@ -9,6 +9,7 @@ pins = {
     2: {'name': 'Desk Lamp', 'state': GPIO.LOW, 'status': "OFF"},
     3: {'name': 'Phone Charger', 'state': GPIO.LOW, 'status': "OFF"},
     4: {'name': 'Speakers', 'state': GPIO.LOW,  'status': "OFF"},
+    5: {'name': 'Test', 'state': GPIO.LOW,  'status': "OFF"},
 }
 
 # Set each pin as an output and make it low:
