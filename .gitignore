@@ -5,4 +5,5 @@ include/
 
 .vscode
 pip-selfcheck.json
+.Python
 
