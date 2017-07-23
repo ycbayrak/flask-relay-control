@@ -2,10 +2,10 @@ flask-relay-control
 ===================
 
 It's a small script to simply control attached relays over HTTP.
-![alt text](http://url/to/img.png)
 
 ----------
 
+![Screenshot](https://github.com/ycbayrak/flask-relay-control/blob/master/screenshot.png)
 
 Install Guide
 -------------
